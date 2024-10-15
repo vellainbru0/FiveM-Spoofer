@@ -20,7 +20,7 @@ Program blocks the outbounding and inbounding calls from adhesive so they won't 
 
 **Current status?**
 
-Seems to be working 14.02.2024
+Seems to be working 15.10.2024
 
 
 
